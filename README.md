@@ -119,7 +119,7 @@ Further, we used Central Limit theorem to plot normal distribution of population
 fitted two posterior distributions of Rate of Stroke(for heart disease individuals vs no heart disease).
 
 
-<img src="https://github.com/ironb25/capstone1/blob/main/images/Bayes_heart_vs_noheart.png" height="500" width="650">
+<img src="https://github.com/ironb25/capstone1/blob/main/images/Bayes_heart_vs_noheart.png" height="500" width="900">
 
 
 Once we have two posterior distributions, we can do hypothesis testing.With bayes hypothesis testing way, we check how probable it is that the parameter p of one site is better than the another.
@@ -129,7 +129,7 @@ Once we have two posterior distributions, we can do hypothesis testing.With baye
 
 ## Bayesian Hypothesis Testing (Finding Posteriors of Rate of Stroke for Males and Females)
 
-<img src="https://github.com/ironb25/capstone1/blob/main/images/Bayes_Male_vsfemale.png" height="500" width="800">
+<img src="https://github.com/ironb25/capstone1/blob/main/images/Bayes_Male_vsfemale.png" height="450" width="700">
 
 #### Interpretation : It is 74% likely that you have a higher probability of having stroke if you are a male. 
 
