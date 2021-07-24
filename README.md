@@ -68,19 +68,25 @@
 
 ### Comparing BMI, Age and Average Glucose levels with Stroke and No Stroke using Data distribution
 
-![StrokeBoxplots](https://github.com/ironb25/capstone1/blob/main/images/stroke_boxplots.png) 
+
+
+<img src="https://github.com/ironb25/capstone1/blob/main/images/stroke_boxplots.png" height="500" width="800">
 
 Further, we used Central Limit theorem to plot normal distribution of population means of bmi, age and average glucose levels.
 
-![StrokeLineplots](https://github.com/ironb25/capstone1/blob/main/images/stroke_lineplots.png) 
+
+<img src="https://github.com/ironb25/capstone1/blob/main/images/stroke_lineplots.png" height="500" width="800">
+
 
 ### Comparing BMI, Age and Average Glucose levels with Heart disease and No heart disease using Data distribution
 
-![heartBoxplots](https://github.com/ironb25/capstone1/blob/main/images/heart_disease_boxplots.png) 
+
+<img src="https://github.com/ironb25/capstone1/blob/main/images/heart_disease_boxplots.png" height="500" width="800">
 
 #### Further, we used Central Limit theorem to plot normal distribution of population means of bmi, age and average glucose levels for Heart disease and no heart disease
 
-![heartLineplots](https://github.com/ironb25/capstone1/blob/main/images/heart_disease_lineplots.png) 
+
+<img src="https://github.com/ironb25/capstone1/blob/main/images/heart_disease_lineplots.png" height="500" width="800">
 
 ## Hypothesis Testing (Frequentist way): Rate of Stroke between heart disease and no heart disease.
 
@@ -100,7 +106,9 @@ Further, we used Central Limit theorem to plot normal distribution of population
 -   This allows us to use beta-binomial distribution.
 fitted two posterior distributions of Rate of Stroke(for heart disease individuals vs no heart disease).
 
-![bayesheartdisease](https://github.com/ironb25/capstone1/blob/main/images/Bayes_heart_vs_noheart.png)
+
+<img src="https://github.com/ironb25/capstone1/blob/main/images/Bayes_heart_vs_noheart.png" height="500" width="800">
+
 
 Once we have two posterior distributions, we can do hypothesis testing.With bayes hypothesis testing way, we check how probable it is that the parameter p of one site is better than the another.
 
@@ -109,7 +117,7 @@ Once we have two posterior distributions, we can do hypothesis testing.With baye
 
 ## Bayesian Hypothesis Testing (Finding Posteriors of Rate of Stroke for Males and Females)
 
-![bayesmalefemale](https://github.com/ironb25/capstone1/blob/main/images/Bayes_Male_vsfemale.png)
+<img src="https://github.com/ironb25/capstone1/blob/main/images/Bayes_Male_vsfemale.png" height="500" width="800">
 
 #### Interpretation : It is 74% likely that you have a higher probability of having stroke if you are a male. 
 
@@ -120,7 +128,5 @@ Once we have two posterior distributions, we can do hypothesis testing.With baye
 - fitted a posterior distribution for each of them.
 
 
-
-![bayestoprisk](https://github.com/ironb25/capstone1/blob/main/images/Bayes_acrossfeatures.png)
 
 <img src="https://github.com/ironb25/capstone1/blob/main/images/Bayes_acrossfeatures.png" height="500" width="800">
