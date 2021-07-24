@@ -32,16 +32,20 @@
 ## Distribution of clinical features:
 
 ### Categorical Features
-![Categorical features](https://github.com/ironb25/capstone1/blob/main/images/categorical_piecharts.png)                
+
+<img src="https://github.com/ironb25/capstone1/blob/main/images/categorical_piecharts.png" height="1000" width="800">
 
 ### Continuous Features
 
-![Continuous features](https://github.com/ironb25/capstone1/blob/main/images/continuous_distributions.png) 
+ 
+<img src="https://github.com/ironb25/capstone1/blob/main/images/continuous_distributions.png" height="1000" width="800">
 
 
 ### Binary features(0 or 1)
 
-![Binary features](https://github.com/ironb25/capstone1/blob/main/images/binary_piecharts.png) 
+
+<img src="https://github.com/ironb25/capstone1/blob/main/images/binary_piecharts.png" height="1000" width="800">
+
 
 ## Correlation Analysis
 
@@ -70,23 +74,23 @@
 
 
 
-<img src="https://github.com/ironb25/capstone1/blob/main/images/stroke_boxplots.png" height="500" width="800">
+<img src="https://github.com/ironb25/capstone1/blob/main/images/stroke_boxplots.png" height="1000" width="800">
 
 Further, we used Central Limit theorem to plot normal distribution of population means of bmi, age and average glucose levels.
 
 
-<img src="https://github.com/ironb25/capstone1/blob/main/images/stroke_lineplots.png" height="500" width="800">
+<img src="https://github.com/ironb25/capstone1/blob/main/images/stroke_lineplots.png" height="1000" width="700">
 
 
 ### Comparing BMI, Age and Average Glucose levels with Heart disease and No heart disease using Data distribution
 
 
-<img src="https://github.com/ironb25/capstone1/blob/main/images/heart_disease_boxplots.png" height="500" width="800">
+<img src="https://github.com/ironb25/capstone1/blob/main/images/heart_disease_boxplots.png" height="1000" width="700">
 
 #### Further, we used Central Limit theorem to plot normal distribution of population means of bmi, age and average glucose levels for Heart disease and no heart disease
 
 
-<img src="https://github.com/ironb25/capstone1/blob/main/images/heart_disease_lineplots.png" height="500" width="800">
+<img src="https://github.com/ironb25/capstone1/blob/main/images/heart_disease_lineplots.png" height="1000" width="700">
 
 ## Hypothesis Testing (Frequentist way): Rate of Stroke between heart disease and no heart disease.
 
