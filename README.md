@@ -33,12 +33,12 @@
 
 ### Categorical Features
 
-<img src="https://github.com/ironb25/capstone1/blob/main/images/categorical_piecharts.png" height="1000" width="800">
+<img src="https://github.com/ironb25/capstone1/blob/main/images/categorical_piecharts.png" height="800" width="600">
 
 ### Continuous Features
 
  
-<img src="https://github.com/ironb25/capstone1/blob/main/images/continuous_distributions.png" height="1000" width="800">
+<img src="https://github.com/ironb25/capstone1/blob/main/images/continuous_distributions.png" height="800" width="600">
 
 From the above graph, we see:
 -   BMI is normally distributed.
@@ -48,7 +48,7 @@ From the above graph, we see:
 ### Binary features(0 or 1)
 
 
-<img src="https://github.com/ironb25/capstone1/blob/main/images/binary_piecharts.png" height="1000" width="800">
+<img src="https://github.com/ironb25/capstone1/blob/main/images/binary_piecharts.png" height="700" width="500">
 
 From the above binary variable pie charts, we see our positive samples are around ~5% in the dataset.
 
@@ -58,7 +58,10 @@ From the above binary variable pie charts, we see our positive samples are aroun
 
 - Comparison of clinical features Age,BMI and Avg glucose levels
 
-![Correlation](https://github.com/ironb25/capstone1/blob/main/images/correlationfig.png) 
+
+<img src="https://github.com/ironb25/capstone1/blob/main/images/correlationfig.png" height="400" width="400">
+
+We infer BMI and age showed high correlation with statistical significance.
 
 ### categorical vs continuous correlation
 
