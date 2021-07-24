@@ -78,7 +78,7 @@ Further, we used Central Limit theorem to plot normal distribution of population
 
 ![heartBoxplots](https://github.com/ironb25/capstone1/blob/main/images/heart_disease_boxplots.png) 
 
-Further, we used Central Limit theorem to plot normal distribution of population means of bmi, age and average glucose levels for Heart disease and no heart disease
+#### Further, we used Central Limit theorem to plot normal distribution of population means of bmi, age and average glucose levels for Heart disease and no heart disease
 
 ![heartLineplots](https://github.com/ironb25/capstone1/blob/main/images/heart_disease_lineplots.png) 
 
@@ -123,3 +123,4 @@ Once we have two posterior distributions, we can do hypothesis testing.With baye
 
 ![bayestoprisk](https://github.com/ironb25/capstone1/blob/main/images/Bayes_acrossfeatures.png)
 
+<img src="https://github.com/ironb25/capstone1/blob/main/images/Bayes_acrossfeatures.png" height="24" width="48">
