@@ -121,7 +121,5 @@ Once we have two posterior distributions, we can do hypothesis testing.With baye
 
 
 
-![bayestoprisk](https://github.com/ironb25/capstone1/blob/main/images/Bayes_acrossfeatures.png)
-
-<img src="https://github.com/ironb25/capstone1/blob/main/images/Bayes_acrossfeatures.png" width="800" height="800">
+![bayestoprisk](https://github.com/ironb25/capstone1/blob/main/images/Bayes_acrossfeatures.png=550x650)
 
