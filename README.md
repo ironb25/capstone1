@@ -29,6 +29,6 @@
 -   Dataset: https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
 
 
-## Distribution of clinical features.
+## Distribution of clinical features:
 
-![Categorical features](https://github.com/ironb25/capstone1/blob/main/images/categorical_piecharts.png.png)                
+![Categorical features](https://github.com/ironb25/capstone1/blob/main/images/categorical_piecharts.png)                
