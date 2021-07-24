@@ -82,7 +82,7 @@ We infer BMI and age showed high correlation with statistical significance.
 
 
 
-<img src="https://github.com/ironb25/capstone1/blob/main/images/stroke_boxplots.png" height="1000" width="800">
+<img src="https://github.com/ironb25/capstone1/blob/main/images/stroke_boxplots.png" height="800" width="650">
 
 Further, we used Central Limit theorem to plot normal distribution of population means of bmi, age and average glucose levels.
 
@@ -93,7 +93,7 @@ Further, we used Central Limit theorem to plot normal distribution of population
 ### Comparing BMI, Age and Average Glucose levels with Heart disease and No heart disease using Data distribution
 
 
-<img src="https://github.com/ironb25/capstone1/blob/main/images/heart_disease_boxplots.png" height="1000" width="700">
+<img src="https://github.com/ironb25/capstone1/blob/main/images/heart_disease_boxplots.png" height="800" width="650">
 
 #### Further, we used Central Limit theorem to plot normal distribution of population means of bmi, age and average glucose levels for Heart disease and no heart disease
 
@@ -119,7 +119,7 @@ Further, we used Central Limit theorem to plot normal distribution of population
 fitted two posterior distributions of Rate of Stroke(for heart disease individuals vs no heart disease).
 
 
-<img src="https://github.com/ironb25/capstone1/blob/main/images/Bayes_heart_vs_noheart.png" height="500" width="800">
+<img src="https://github.com/ironb25/capstone1/blob/main/images/Bayes_heart_vs_noheart.png" height="500" width="700">
 
 
 Once we have two posterior distributions, we can do hypothesis testing.With bayes hypothesis testing way, we check how probable it is that the parameter p of one site is better than the another.
