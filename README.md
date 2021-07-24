@@ -119,7 +119,7 @@ Further, we used Central Limit theorem to plot normal distribution of population
 fitted two posterior distributions of Rate of Stroke(for heart disease individuals vs no heart disease).
 
 
-<img src="https://github.com/ironb25/capstone1/blob/main/images/Bayes_heart_vs_noheart.png" height="500" width="1100">
+<img src="https://github.com/ironb25/capstone1/blob/main/images/Bayes_heart_vs_noheart2.png" height="500" width="600">
 
 
 Once we have two posterior distributions, we can do hypothesis testing.With bayes hypothesis testing way, we check how probable it is that the parameter p of one site is better than the another.
