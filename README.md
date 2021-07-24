@@ -142,3 +142,5 @@ Once we have two posterior distributions, we can do hypothesis testing.With baye
 
 
 <img src="https://github.com/ironb25/capstone1/blob/main/images/Bayes_acrossfeatures.png" height="500" width="800">
+
+#### Heart Disease and Hypertension were found to be the top risk factors for Stroke.
