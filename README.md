@@ -7,7 +7,6 @@
 -   Correlation Analysis:
     *   Continuous values correlation.(e.g. bmi and age)
     *   Categorical and continuous value correlation.(e.g Stroke and age)
-    *   Categorical vs Categeorical correlation.(e.g. Stroke and heart disease)
 -   Hypothesis tesing (frequentist way)- : Comparing clinical features :
     *   stroke vs no stroke.
     *   heart disease vs no heart disease.
@@ -84,7 +83,7 @@ We infer BMI and age showed high correlation with statistical significance.
 
 <img src="https://github.com/ironb25/capstone1/blob/main/images/stroke_boxplots.png" height="800" width="650">
 
-Further, we used Central Limit theorem to plot normal distribution of population means of bmi, age and average glucose levels.
+####   Further, we used Central Limit theorem to plot normal distribution of population means of bmi, age and average glucose levels.
 
 
 <img src="https://github.com/ironb25/capstone1/blob/main/images/stroke_lineplots.png" height="1000" width="700">
