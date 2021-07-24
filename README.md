@@ -40,12 +40,17 @@
  
 <img src="https://github.com/ironb25/capstone1/blob/main/images/continuous_distributions.png" height="1000" width="800">
 
+From the above graph, we see:
+-   BMI is normally distributed.
+-   Age has more kind of uniform distribution.
+-   Average glucose levels : right skewed if you have tail.(positively skewed)
 
 ### Binary features(0 or 1)
 
 
 <img src="https://github.com/ironb25/capstone1/blob/main/images/binary_piecharts.png" height="1000" width="800">
 
+From the above binary variable pie charts, we see our positive samples are around ~5% in the dataset.
 
 ## Correlation Analysis
 
